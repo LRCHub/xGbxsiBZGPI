@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "完全感覚Dreamer",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-13T06:30:30.928723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_完全感覚Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_完全感覚Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer - Kanzen kankaku Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_完全感覚Dreamer_-_Kanzen_kankaku_Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_完全感覚Dreamer_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "完全感覚Dreamer",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_完全感覚Dreamer_ONE_OK_ROCK.txt"
+    }
+  ]
+}
