@@ -1,0 +1,71 @@
+# ONE OK ROCK – 完全感覚Dreamer
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:32.38] So now my time is up
+[00:34.89] Your game starts,
+[00:36.17] My heart moving?
+[00:37.60] Past time has no meaning for us,
+[00:41.03] It's not enough!
+[00:49.03] 
+[00:42.51] Will we make it better
+[00:45.01] Or just stand here longer
+[00:47.58] Say it,
+[00:48.50] "We can't end here till we can get it enough"
+[01:11.00] 
+[00:52.65] 絶対的根拠はウソだらけ
+[00:57.45] いつだってあるのは僕の
+[01:02.85] 自信や不安をかき混ぜた
+[01:07.56] 弱いようで強い僕
+[01:11.56] 
+[01:12.88] This is my own judgement!!
+[01:15.02] Got nothing to say!!
+[01:16.93] もしも他に何か思いつきゃ 速攻言うさ
+[01:23.03] 「完全感覚Dreamerが僕の名さ」
+[01:27.18] Will say it?
+[01:28.33] Will say it!
+[01:30.50] あればあるで聞くが今は
+[01:32.62] Hold on!
+[01:36.62] 
+[01:52.93] Yeah when I'm caught in fire
+[01:55.88] When I rise up higher
+[01:58.37] Do you see me out there
+[02:00.85] Waiting for the next chance we get
+[02:03.49] Will we make it,
+[02:05.23] IT'S NOT ENOUGH!
+[02:06.17] Or just stand here longer
+[02:08.46] Say it,
+[02:09.35] "We can't end here till we can get it enough"
+[02:31.85] 
+[02:13.43] 確信犯? 知能犯? NO NO NO!
+[02:18.15] いつだってその場しのぎの
+[02:23.54] 持論や理論を織り交ぜた
+[02:28.41] 自由さユニークさもなく
+[02:33.91] 
+[02:33.56] This is my own judgement!
+[02:35.87] Got nothing to say!
+[02:37.81] もしも他に何か思いつきゃ 速攻言うさ
+[02:43.88] 「完全感覚Dreamerが僕の名さ」
+[02:47.95] Will say it?
+[02:49.21] Will say it!
+[02:51.13] You know I've got to be NUMBER ONE!!
+[03:09.13] 
+[03:16.61] どうだい？予想外?
+[03:19.17] 面食らって、はばかれて
+[03:21.89] 後退? して撤退? って Yeah!!
+[03:31.39] 
+[03:28.09] 完全感覚Dreamer的 空想
+[03:32.39] 誰が何を言おうが言わまいが無関係
+[03:38.42] どうやったっていつも変わらない
+[03:42.33] 壁を闇をこれからもぶっ壊していくさ
+[03:50.83] 
+[03:48.58] 完全感覚Dreamer
+[03:53.55] 完全感覚Dreamer
+[03:59.05] 
+[03:58.34] Yeah when I'm caught in fire
+[04:01.00] When I rise up higher
+[04:03.69] Do you see me out there
+[04:06.12] I can't get enough!
+[04:07.18] Can't get enough!
+```
